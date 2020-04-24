@@ -1,4 +1,4 @@
-Simple All-in-one tool for connecting to iDRAC6 (e.g. R710) for Linux Users.
+Simple All-in-one tool for connecting to iDRAC6 virtual console (e.g. R710) for Linux Users.
 Based on https://gist.github.com/xbb/4fd651c2493ad9284dbcb827dc8886d6 and https://github.com/nickroethemeier/udrac
 
 Instructions:
